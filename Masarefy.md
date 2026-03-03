@@ -149,9 +149,8 @@ To protect your account:
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us at:
 
-**Email**: [Your Email Address]  
-**GitHub**: [Your GitHub Repository URL]  
-**Support**: [Your Support Contact Method]
+**Email**: [eng.atef2017@gmail.com]
+**GitHub**: [https://github.com/MOHAMED-ATEF2017]
 
 ## Consent
 
